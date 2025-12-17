@@ -88,13 +88,13 @@ Your *Solo Leveling Bot* shadow session has been created successfully.
 
 *📢 Stay in the Shadows:*  
 Join the official Hunter’s Channel:  
-https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A  
+
 
 
 
 ——————  
 
-> *© Kelvin Tech Legacy*  
+> *© LUKTECH  Legacy*  
 Stay strong, stay unseen. 👤`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
@@ -102,7 +102,7 @@ contextInfo: {
 externalAdReply: {
 title: "⚔️ Solo Leveling — Shadow Pair",
 thumbnailUrl: "https://files.catbox.moe/w5vwcu.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B",
+sourceUrl: "",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -123,13 +123,13 @@ Your *Shadow Session* has been forged successfully.
 
 *📢 Stay in the Shadows:*  
 Join the official Hunter’s Channel:  
-https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A  
+ 
 
 
 
 ——————  
 
-> *© Kelvin Tech Legacy*  
+> *© LUKTECH  Legacy*  
 Stay strong, stay unseen. 👤`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
@@ -137,7 +137,7 @@ contextInfo: {
 externalAdReply: {
 title: "⚔️ Solo Leveling — Shadow Pair",
 thumbnailUrl: "https://files.catbox.moe/w5vwcu.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B",
+sourceUrl: "",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
